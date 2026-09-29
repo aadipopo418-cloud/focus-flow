@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow — Your Personal Study Planner",
+  "description": "A personalised study planner and smart focus timer tailored to your energy, distractions, environment, and available time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
